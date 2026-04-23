@@ -8,4 +8,4 @@
 
 <div id="fly-cat"></div>
 
-![飛貓](fly-cat.jpg)
+![飛貓](fly-cat.png)
